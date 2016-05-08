@@ -3,15 +3,15 @@ Adds Disqus to Zenphoto. Can be configured to use SSO (single sign on) and Disqu
 
 Instructions (Basic Setup - Required):
 
-1. 
+1. Coming Soon
 
 Instructions (SSO Setup - Optional):
 
-1.
+1. Coming Soon
 
 Instructions (Comment Count Setup - Optional):
 
-1.
+1. Coming Soon
 
 Tested with the following themes:
 
